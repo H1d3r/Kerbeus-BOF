@@ -2,7 +2,7 @@
 
 ----
 
-Beacon Object Files for Kerberos abuse. This is an implementation of some important features of the [Rubeus](https://github.com/GhostPack/Rubeus) project, written in C. The project features integration with the C2 frameworks [Cobalt Strike](https://www.cobaltstrike.com/), [Havoc](https://github.com/HavocFramework/Havoc) and [AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2).
+Beacon Object Files for Kerberos abuse. This is an implementation of some important features of the [Rubeus](https://github.com/GhostPack/Rubeus) project, written in C. The project features integration with the C2 frameworks [Cobalt Strike](https://www.cobaltstrike.com/), [Havoc](https://github.com/HavocFramework/Havoc), [AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) and [Outflank C2](https://www.outflank.nl/products/outflank-security-tooling/outflank-c2/).
 
 ![](_img/01.png)
 
